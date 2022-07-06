@@ -1,1 +1,3 @@
-# perla-gal.github.com
+# Perla Galaviz CV
+
+Proyecto Currículum para aprender HTML
